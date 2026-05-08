@@ -4,8 +4,12 @@ Working papers and specimens on open standards as AI governance infrastructure �
 
 ## Contents
 
-- **[Open Standards as AI Governance Infrastructure.pdf](./Open%20Standards%20as%20AI%20Governance%20Infrastructure.pdf)** — Scenario-based white paper (v2.1, May 2026, 24 pp.) on AI-agent accountability. Argues that an open standards stack (identity, attestation, audit) is the precondition for a Pigouvian instrument on AI labor displacement, and situates the proposal against OECD Pillar Two. Closes with a broader framing: the standards stack is mechanism-design infrastructure, and the political institutions to govern what it makes possible are not yet in view.
-- **[agent-authority-card-specimen.pdf](./agent-authority-card-specimen.pdf)** — Visual specimen of an Agent Authority Card, the proposed identity/attestation artifact referenced in the white paper.
+The white paper is provided in three formats; the **PDF is canonical**. The Markdown and Word versions were derived from the PDF and lightly normalized.
+
+- **[Open Standards as AI Governance Infrastructure.pdf](./Open%20Standards%20as%20AI%20Governance%20Infrastructure.pdf)** — Canonical PDF. Scenario-based white paper (v2.1, May 2026, 24 pp.) on AI-agent accountability. Argues that an open standards stack (identity, attestation, audit) is the precondition for a Pigouvian instrument on AI labor displacement, and situates the proposal against OECD Pillar Two. Closes with a broader framing: the standards stack is mechanism-design infrastructure, and the political institutions to govern what it makes possible are not yet in view.
+- **[Open Standards as AI Governance Infrastructure.md](./Open%20Standards%20as%20AI%20Governance%20Infrastructure.md)** — Markdown rendering of the same paper. Convenient for reading on GitHub, quoting, and diff-tracking edits.
+- **[Open Standards as AI Governance Infrastructure.docx](./Open%20Standards%20as%20AI%20Governance%20Infrastructure.docx)** — Word version generated from the Markdown for readers who want to comment, redline, or repurpose sections.
+- **[agent-authority-card-specimen.pdf](./agent-authority-card-specimen.pdf)** — Visual specimen of an Agent Authority Card, the proposed identity/attestation artifact referenced in the white paper (see Appendix A).
 
 ## Authorship
 
